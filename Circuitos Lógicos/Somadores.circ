@@ -107,6 +107,9 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="label" val="B"/>
       <a name="labelloc" val="west"/>
     </comp>
+    <comp lib="7" loc="(332,72)" name="Text">
+      <a name="text" val="Autor: Mauro Hemerly Gazzani"/>
+    </comp>
     <comp lib="1" loc="(410,180)" name="AND Gate"/>
     <comp lib="0" loc="(450,130)" name="Pin">
       <a name="facing" val="west"/>
