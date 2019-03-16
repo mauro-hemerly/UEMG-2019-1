@@ -116,6 +116,9 @@ This file is intended to be loaded by Logisim http://logisim.altervista.org
       <a name="label" val="S"/>
     </comp>
     <comp lib="1" loc="(1910,810)" name="OR Gate"/>
+    <comp lib="7" loc="(1759,659)" name="Text">
+      <a name="text" val="Exclusivo"/>
+    </comp>
     <comp lib="1" loc="(1850,790)" name="AND Gate"/>
     <comp lib="7" loc="(1761,643)" name="Text">
       <a name="text" val="XOR"/>
